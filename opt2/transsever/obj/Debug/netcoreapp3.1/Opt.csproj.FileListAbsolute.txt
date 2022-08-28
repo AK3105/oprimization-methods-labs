@@ -1,0 +1,13 @@
+C:\Users\vasya\source\repos\opt2\transsever\bin\Debug\netcoreapp3.1\Opt.exe
+C:\Users\vasya\source\repos\opt2\transsever\bin\Debug\netcoreapp3.1\Opt.deps.json
+C:\Users\vasya\source\repos\opt2\transsever\bin\Debug\netcoreapp3.1\Opt.runtimeconfig.json
+C:\Users\vasya\source\repos\opt2\transsever\bin\Debug\netcoreapp3.1\Opt.runtimeconfig.dev.json
+C:\Users\vasya\source\repos\opt2\transsever\bin\Debug\netcoreapp3.1\Opt.dll
+C:\Users\vasya\source\repos\opt2\transsever\bin\Debug\netcoreapp3.1\Opt.pdb
+C:\Users\vasya\source\repos\opt2\transsever\obj\Debug\netcoreapp3.1\Opt.AssemblyInfoInputs.cache
+C:\Users\vasya\source\repos\opt2\transsever\obj\Debug\netcoreapp3.1\Opt.AssemblyInfo.cs
+C:\Users\vasya\source\repos\opt2\transsever\obj\Debug\netcoreapp3.1\Opt.csproj.CoreCompileInputs.cache
+C:\Users\vasya\source\repos\opt2\transsever\obj\Debug\netcoreapp3.1\Opt.dll
+C:\Users\vasya\source\repos\opt2\transsever\obj\Debug\netcoreapp3.1\Opt.pdb
+C:\Users\vasya\source\repos\opt2\transsever\obj\Debug\netcoreapp3.1\Opt.genruntimeconfig.cache
+C:\Users\vasya\source\repos\opt2\transsever\obj\Debug\netcoreapp3.1\Opt.csprojAssemblyReference.cache

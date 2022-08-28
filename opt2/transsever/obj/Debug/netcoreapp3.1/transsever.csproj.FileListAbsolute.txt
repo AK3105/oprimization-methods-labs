@@ -1,0 +1,13 @@
+C:\Users\vasya\source\repos\transsever\transsever\bin\Debug\netcoreapp3.1\transsever.exe
+C:\Users\vasya\source\repos\transsever\transsever\bin\Debug\netcoreapp3.1\transsever.deps.json
+C:\Users\vasya\source\repos\transsever\transsever\bin\Debug\netcoreapp3.1\transsever.runtimeconfig.json
+C:\Users\vasya\source\repos\transsever\transsever\bin\Debug\netcoreapp3.1\transsever.runtimeconfig.dev.json
+C:\Users\vasya\source\repos\transsever\transsever\bin\Debug\netcoreapp3.1\transsever.dll
+C:\Users\vasya\source\repos\transsever\transsever\bin\Debug\netcoreapp3.1\transsever.pdb
+C:\Users\vasya\source\repos\transsever\transsever\obj\Debug\netcoreapp3.1\transsever.csprojAssemblyReference.cache
+C:\Users\vasya\source\repos\transsever\transsever\obj\Debug\netcoreapp3.1\transsever.AssemblyInfoInputs.cache
+C:\Users\vasya\source\repos\transsever\transsever\obj\Debug\netcoreapp3.1\transsever.AssemblyInfo.cs
+C:\Users\vasya\source\repos\transsever\transsever\obj\Debug\netcoreapp3.1\transsever.csproj.CoreCompileInputs.cache
+C:\Users\vasya\source\repos\transsever\transsever\obj\Debug\netcoreapp3.1\transsever.dll
+C:\Users\vasya\source\repos\transsever\transsever\obj\Debug\netcoreapp3.1\transsever.pdb
+C:\Users\vasya\source\repos\transsever\transsever\obj\Debug\netcoreapp3.1\transsever.genruntimeconfig.cache
